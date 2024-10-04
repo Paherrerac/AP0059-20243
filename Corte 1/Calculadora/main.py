@@ -1,5 +1,5 @@
 # Paola Andrea Herrera 20162005881
---- CALCULADORA PRIMER CORTE ---
+# --- CALCULADORA PRIMER CORTE ---
 
 import operaciones
 while True:
